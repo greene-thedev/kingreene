@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingreene
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python and javascript
-- 💞️ I’m looking to collaborate on ... any beginer's project
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on any beginer's project
 - 📫 How to reach me ... jerrygreene010@gmail.com
 
 <!---
