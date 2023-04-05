@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingreene
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m a BSc. Computer Science undergrad
+- 🌱 I’m currently learning flutter (mostly)
+- 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me ... jerrygreene010@gmail.com
 
 <!---
